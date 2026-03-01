@@ -1,0 +1,43 @@
+Modelo;Motor;Ano_Inicial;Ano_Final;Categoria;Codigo;Marca
+Gol;1.0 8v;2008;2013;Vela;BKR7ESBD;NGK
+Gol;1.0 8v;2008;2013;Cabo de vela;STV25;NGK
+Gol;1.0 8v;2008;2013;Kit correia;KS104;GATES
+Gol;1.0 8v;2008;2013;Amortecedor Dianteiro;AMD32476;PERFECT
+Palio;1.0 Fire;2001;2015;Vela;BKR6ED;NGK
+Palio;1.0 Fire;2001;2015;Cabo de vela;SCT57;NGK
+Palio;1.0 Fire;2001;2015;Kit correia;KS200;GATES
+Palio;1.0 Fire;2001;2015;Amortecedor Dianteiro;GP32283;Cofap
+Celta;1.0 8v VHC;2000;2015;Vela Flex;BR8ESD;NGK
+Celta;1.0 8v VHC;2000;2015;Vela Gas;BPR6EYD;NGK
+Celta;1.0 8v VHC;2000;2015;Cabo de vela;SCG73;NGK
+Celta;1.0 8v VHC;2000;2015;Kit correia;KS303;GATES
+Celta;1.0 8v VHC;2000;2015;Amortecedor Dianteiro;AMD30112;PERFECT
+Fox;1.6 8v;2003;2014;Vela;BKR7ESBD;NGK
+Fox;1.6 8v;2003;2014;Cabo de vela;STV25;NGK
+Fox;1.6 8v;2003;2014;Kit correia;KS104;GATES
+Fox;1.6 8v;2003;2014;Amortecedor Dianteiro;749166SP;MONROE
+Uno;1.0 Fire;2002;2013;Vela Flex/Gas;BKR6ED;NGK
+Uno;1.0 Fire;2002;2013;Cabo de vela Gas;SCT06;NGK
+Uno;1.0 Fire;2002;2013;Cabo de vela Flex;SCT09;NGK
+Uno;1.0 Fire;2002;2013;Kit correia;KS200;GATES
+Uno;1.0 Fire;2002;2013;Amortecedor Dianteiro;GP32283;Cofap
+Corsa Classic;1.0 8v;1996;2016;Vela;BR6ES;NGK
+Corsa Classic;1.0 8v;1996;2016;Cabo de vela;SCG73;NGK
+Corsa Classic;1.0 8v;1996;2016;Kit correia;CT874K1;Contitech
+Corsa Classic;1.0 8v;1996;2016;Amortecedor Dianteiro;GP30118;Cofap
+Onix;1.0 8v;2013;2019;Vela;BR8ES;NGK
+Onix;1.0 8v;2013;2019;Cabo de vela;SCG95;NGK
+Onix;1.0 8v;2013;2019;Kit correia;CT874K1;Contitech
+Onix;1.0 8v;2013;2019;Amortecedor Dianteiro;GP33215;Cofap
+Saveiro;1.6 8v;2010;2014;Vela;BKR7ESBD;NGK
+Saveiro;1.6 8v;2010;2014;Cabo de vela;STV25;NGK
+Saveiro;1.6 8v;2010;2014;Kit correia;CT1044K1;Contitech
+Saveiro;1.6 8v;2010;2014;Amortecedor Dianteiro;GP32819;Cofap
+Strada;1.4 Fire;2006;2012;Vela;BKR6ED;NGK
+Strada;1.4 Fire;2006;2012;Cabo de vela;SCT57;NGK
+Strada;1.4 Fire;2006;2012;Kit correia;CT1049K1;Contitech
+Strada;1.4 Fire;2006;2012;Amortecedor Dianteiro;GP32561;Cofap
+Voyage;1.0 8v;2009;2016;Vela;BKR7ESBD;NGK
+Voyage;1.0 8v;2009;2016;Cabo de vela;STV25;NGK
+Voyage;1.0 8v;2009;2016;Kit correia;CT1044K1;Contitech
+Voyage;1.0 8v;2009;2016;Amortecedor Dianteiro;GP32467;Cofap
